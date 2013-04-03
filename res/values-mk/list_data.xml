@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diy_categories">
+        <item>DIY Шминка</item>
+        <item>DIY Облека</item>
+        <item>DIY Накит </item>
+        <item>DIY Украсување на чевли</item>
+        <item>DIY Подароци</item>
+        <item>Организатори и идеи </item>
+    </string-array>
+</resources>

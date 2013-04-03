@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diy_categories">
+        <item>DIY Makeup</item>
+        <item>DIY Clothes</item>
+        <item>DIY Necklaces and Earrings </item>
+        <item>DIY Shoes decoration</item>
+        <item>DIY Gifts</item>
+        <item>Organizer and ideas </item>
+       
+    </string-array>
+</resources>
